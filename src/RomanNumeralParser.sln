@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30114.105
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RomanNumeralParser", "RomanNumeralParser\RomanNumeralParser.csproj", "{14D5271D-EC3A-40D8-BA51-58A1C2008B69}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RomanNumeralParser.Tests", "RomanNumeralParser.Tests\RomanNumeralParser.Tests.csproj", "{FEEFFAA7-C63A-4C07-883E-97F06CB9EC79}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{14D5271D-EC3A-40D8-BA51-58A1C2008B69}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{14D5271D-EC3A-40D8-BA51-58A1C2008B69}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{14D5271D-EC3A-40D8-BA51-58A1C2008B69}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{14D5271D-EC3A-40D8-BA51-58A1C2008B69}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FEEFFAA7-C63A-4C07-883E-97F06CB9EC79}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FEEFFAA7-C63A-4C07-883E-97F06CB9EC79}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FEEFFAA7-C63A-4C07-883E-97F06CB9EC79}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FEEFFAA7-C63A-4C07-883E-97F06CB9EC79}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
